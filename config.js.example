@@ -1,0 +1,4 @@
+module.exports = {
+  token: 'YOURTOKEN',
+  amounts: [3, 10, 60] // list of amounts available (in seconds)
+}
